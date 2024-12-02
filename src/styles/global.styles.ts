@@ -1,4 +1,4 @@
-import { globalCss } from '.'
+import { globalCss } from './index.styles'
 
 export const globalStyles = globalCss({
   '*': {
