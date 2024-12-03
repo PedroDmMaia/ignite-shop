@@ -18,6 +18,7 @@ export default function Document() {
 
         <style
           id="stitches"
+          data-styled
           dangerouslySetInnerHTML={{ __html: getCssText() }}
         />
       </Head>
